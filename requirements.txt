@@ -1,0 +1,8 @@
+nvidia-ml-py==13.590.44
+psutil==7.2.1
+pynvml==13.0.1
+PySide6==6.10.1
+PySide6_Addons==6.10.1
+PySide6_Essentials==6.10.1
+PyYAML==6.0.3
+shiboken6==6.10.1
