@@ -10,7 +10,7 @@ It was developed to always have vital systems parameters in view while working w
 - **Compatibility**: The tool was developed on Linux for Linux. It propably also runs on macOS, and Windows.
 
 ## Installation
-1. Make sure Python 3.10 or higher must be installed on your system.
+1. Make sure Python 3.10 or higher is installed on your system.
 2. Install all requirements from requirements.txt `pip install -r requirements.txt`
 3. Run the app `python3 PerMonitor.py`
 
